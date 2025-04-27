@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dipak-w
 - 👀 I’m interested in DevOps and cloud
-- 🌱 I’m currently learning Docker
+- 🌱 I’m currently learning Docker, Kubernetes, and Ansible.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ... https://www.linkedin.com/in/dipak-waghmare/
 - 😄 Pronouns: Dipak
