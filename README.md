@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Dipak-w
+- 👋 Hi, I’m @Dipak-w Dipak Waghmare
+AI/GenAI & AWS Cloud Engineer | LLM Evaluation | RAG | Python | AWS | Terraform
+Pune, India · Building reliable, evaluated, and cloud-ready AI systems
 - 👀 I’m interested in DevOps, AI and cloud.
 - 🌱 I’m currently learning Docker, Kubernetes, and Ansible.
 - 💞️ I’m looking to collaborate on 
